@@ -14,3 +14,18 @@ Here are my notebooks to experiment with popular "data science" Python libraries
 I re-implement all exercises in [Machine Learning](https://www.coursera.org/learn/machine-learning) course on Coursera tought by Prof. Andrew Ng.
 
 - [Exercise 1 - Linear Regression](notebooks/ml_andrew/Exercise 1 - Simple Linear Regression.ipynb)
+
+
+## Deep Learning Exercises
+
+I will put my notebooks for Deep Learning exercises here.
+
+
+## Big Data
+
+Exercises on Big Data.
+
+
+## Kaggle Competitions
+
+Here are my notebooks for Kaggle Competitions
