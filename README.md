@@ -1,6 +1,6 @@
-# Machine Learning exercises
+# Machine Learning Journey
 
-This repo contains IPython notebooks I've created to experiment with libraries (e.g. scikit-learn numpy, scipy, matplotlib, ...) and work through the assignments from Machine [Learning course](https://www.coursera.org/learn/machine-learning) on Coursera tought by prof. Andrew Ng.
+This repo contains IPython notebooks I've created to experiment with libraries (e.g. scikit-learn numpy, scipy, matplotlib, ...) and work through exercises. My journey in Machine Learning is recorded here.
 
 ## Libraries
 
@@ -8,8 +8,9 @@ Here are my notebooks to experiment with popular "data science" Python libraries
 
 - [NumPy](notebooks/libraries/NumPy.ipynb)
 
-## Exercises
 
-Here are notebooks of the exercises:
+## Machine Learning Exercises
 
-- [Exercise 1 - Linear Regression](notebooks/exercises/Exercise 1 - Simple Linear Regression.ipynb)
+I re-implement all exercises in [Machine Learning](https://www.coursera.org/learn/machine-learning) course on Coursera tought by Prof. Andrew Ng.
+
+- [Exercise 1 - Linear Regression](notebooks/ml_andrew/Exercise 1 - Simple Linear Regression.ipynb)
