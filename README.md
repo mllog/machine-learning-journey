@@ -7,6 +7,7 @@ This repo contains IPython notebooks I've created to experiment with libraries (
 Here are my notebooks to experiment with popular "data science" Python libraries:
 
 - [NumPy](notebooks/libraries/NumPy.ipynb)
+- [SciPy](notebooks/libraries/SciPy.ipynb)
 
 
 ## Machine Learning Exercises
