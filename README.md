@@ -30,3 +30,6 @@ Exercises on Big Data.
 ## Kaggle Competitions
 
 Here are my notebooks for Kaggle Competitions
+
+## Misc
+Notebooks covering various interesting topics!
