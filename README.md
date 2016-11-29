@@ -20,7 +20,7 @@ I re-implement all exercises in [Machine Learning](https://www.coursera.org/lear
 ## Deep Learning Exercises
 
 I will put my notebooks for Tensorflow Deep Learning exercises here.
-- [Assignment 1: notMNIST](notebooks/tensorflow/notebooks/tensorflow/Assignment_1_notmnist.ipynb)
+- [Assignment 1: notMNIST](notebooks/tensorflow/Assignment_1_notmnist.ipynb)
 
 
 ## Big Data
