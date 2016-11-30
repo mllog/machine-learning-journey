@@ -29,6 +29,8 @@ I will put my notebooks for Tensorflow Deep Learning exercises here.
 
 This lists notebooks of mini courses about machine learning I created along my Journey.
 
+- [Deep Learning with Python](notebooks/minicourses/Deep Learning With Python.ipynb)
+
 
 ## Kaggle Competitions
 
