@@ -1,2 +1,8 @@
 .DS_Store
+*/.ipynb_checkpoints/*
 */*/.ipynb_checkpoints/*
+notebooks/misc/*
+notebooks/ml_andrew/data
+notebooks/tensorflow/notMNIST_large
+notebooks/tensorflow/notMNIST_small
+notebooks/tensorflow/*.pickle

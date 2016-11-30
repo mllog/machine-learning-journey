@@ -25,9 +25,9 @@ I will put my notebooks for Tensorflow Deep Learning exercises here.
 - [Assignment 1: notMNIST](notebooks/tensorflow/Assignment_1_notmnist.ipynb)
 
 
-## Big Data
+## Mini Courses
 
-Exercises on Big Data.
+This lists notebooks of mini courses about machine learning I created along my Journey.
 
 
 ## Kaggle Competitions
