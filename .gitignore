@@ -6,3 +6,4 @@ notebooks/ml_andrew/data
 notebooks/tensorflow/notMNIST_large
 notebooks/tensorflow/notMNIST_small
 notebooks/tensorflow/*.pickle
+notebooks/minicourses/data

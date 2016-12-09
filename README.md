@@ -36,5 +36,7 @@ This lists notebooks of mini courses about machine learning I created along my J
 
 Here are my notebooks for Kaggle Competitions
 
+- Allstate Claims Severity: [Kaggle link](https://www.kaggle.com/c/allstate-claims-severity), [Notebook](kaggle/Allstate Competition.ipynb)
+
 ## Misc
 Notebooks covering various interesting topics!
