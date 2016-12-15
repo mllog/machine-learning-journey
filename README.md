@@ -20,9 +20,12 @@ I re-implement all exercises in [Machine Learning](https://www.coursera.org/lear
 
 ## Deep Learning Exercises
 
-I will put my notebooks for Tensorflow Deep Learning exercises here.
+### Tensorflow Deep Learning Course.
 - [Softmax](notebooks/tensorflow/Softmax.ipynb)
 - [Assignment 1: notMNIST](notebooks/tensorflow/Assignment_1_notmnist.ipynb)
+
+### CS231n: Convolutional Neural Networks for Visual Recognition
+- [Python Numpy Tutorial](notebooks/cs231n/Python Numpy Tutorial.ipynb)
 
 
 ## Mini Courses
